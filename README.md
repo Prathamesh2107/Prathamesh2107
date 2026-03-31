@@ -1,3 +1,4 @@
+![logo](https://github.com/Prathamesh2107/Prathamesh2107/blob/main/Background_image.png)
 <h1 align="center">Hi 👋, I'm Prathamesh Chormale</h1>
 <h3 align="center">Passionate about cloud infrastructure, automation, and continuous deployment.</h3>
 
