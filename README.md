@@ -1,4 +1,4 @@
-![logo](https://github.com/Prathamesh2107/Prathamesh2107/blob/main/<img width="1473" height="704" alt="WhatsApp Image 2026-09-28 at 11 52 37 PM" src="https://github.com/user-attachments/assets/765d65e5-178c-46cd-b4da-66bf72867956" />
+!<img width="1473" height="704" alt="WhatsApp Image 2026-09-28 at 11 52 37 PM" src="https://github.com/user-attachments/assets/765d65e5-178c-46cd-b4da-66bf72867956" />
 )
 <h1 align="center">Hi 👋, I'm Prathamesh Chormale</h1>
 <h3 align="center">Passionate about cloud infrastructure, automation, and continuous deployment.</h3>
